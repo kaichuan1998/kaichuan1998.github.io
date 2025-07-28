@@ -7,11 +7,11 @@ title: teaching
 
 ## Fall 2023
 
-- Math 231 Multivariable calculus (3 sessions) [syllabus](https://kaichuan1998.github.io/file/231-Syllabus-2023.pdf)
+- Math 231 Multivariable calculus (3 secions) [syllabus](https://kaichuan1998.github.io/file/231-Syllabus-2023.pdf)
 
 ## Spring 2022
 
-- Math 231 Multivariable calculus (1 session) [syllabus](https://kaichuan1998.github.io/file/syllabus23sp.pdf)
+- Math 231 Multivariable calculus (1 section) [syllabus](https://kaichuan1998.github.io/file/syllabus23sp.pdf)
 
 ---
 
