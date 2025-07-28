@@ -17,7 +17,7 @@ title: teaching
 
 ## Grading
 
-- Math 528 Differentiable manifolds
+- Math 528 Differentiable manifolds 
 - Math 484 Linear Optimization
 - Math 404 Mathematical Analysis
 
