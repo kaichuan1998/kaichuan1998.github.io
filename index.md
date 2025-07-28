@@ -4,13 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+Here is **Kaichuan Qi (戚铠川)**.<br>
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+I am a graduate student in the math department at Penn State University, supervised by [Prof. Ping Xu](https://science.psu.edu/math/people/pxx2), and [Prof. Mathieu Stiénon](https://ulysses8791.github.io). 
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
-
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+Prior to Penn State, I obtained my master's degree from KU Leuven, under the guidance of [Prof. Marco Zambon](https://perswww.kuleuven.be/~u0096206/). And before that, I did my Bachelor's in CUHK(Shenzhen).
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
 
