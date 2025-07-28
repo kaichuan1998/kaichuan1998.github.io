@@ -15,11 +15,13 @@ Prior to Penn State, I obtained my master's degree from KU Leuven, under the gui
 - Poisson Geometry
 - Graded Manifolds
 
+---
+
 ## Preprint
 
 - (With Dadi Ni) [Hyperkähler structures on leaves of hyper-Lie Poisson manifolds](https://arxiv.org/abs/2502.08979)
 
----
+
 
 
 
