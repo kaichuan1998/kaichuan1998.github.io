@@ -14,10 +14,8 @@ Prior to Penn State, I obtained my master's degree from KU Leuven, under the gui
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+- Poisson Geometry
+- Graded Manifolds
 
 ---
 
