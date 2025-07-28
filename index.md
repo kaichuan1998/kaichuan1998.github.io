@@ -10,8 +10,6 @@ I am a graduate student in the math department at Penn State University, supervi
 
 Prior to Penn State, I obtained my master's degree from KU Leuven, under the guidance of [Prof. Marco Zambon](https://perswww.kuleuven.be/~u0096206/). And before that, I did my Bachelor's in CUHK(Shenzhen).
 
-Here is my [CV](http://kaichuan1998.github.io/file/cv-qi2025.pdf). Feel free to reach out to me at — **kkq5040 [at] psu.edu**
-
 ---
 
 ## Research Interests
