@@ -9,7 +9,7 @@ title: teaching
 
 - Math 231 Multivariable calculus (3 sections) [syllabus](https://kaichuan1998.github.io/file/231-Syllabus-2023.pdf)
 
-## Spring 2022
+## Spring 2023
 
 - Math 231 Multivariable calculus (1 section) [syllabus](https://kaichuan1998.github.io/file/syllabus23sp.pdf)
 
