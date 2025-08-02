@@ -13,7 +13,7 @@ Prior to Penn State, I obtained my master's degree from KU Leuven, under the gui
 ## Research Interests
 
 - Poisson Geometry
-- Lie groupoids and Lie algebroids
+- Lie Groupoids and Lie Algebroids
 - Graded Manifolds
 
 ---
